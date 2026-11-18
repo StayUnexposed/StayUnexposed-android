@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">StayUnexposed Startup</string>
+    <string name="counter_heading">Your starter screen is running</string>
+    <string name="counter_value">Count: %1$d</string>
+    <string name="action_increment">Increment</string>
+    <string name="action_reset">Reset</string>
+    <string name="company_footer">Built by %1$s</string>
+</resources>
